@@ -1,15 +1,11 @@
 .photo-grid {
   margin: 0 auto 92px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  gap: 16px;
   max-width: 1184px;
 }
 
 @media screen and (max-width: 1279px) {
   .photo-grid {
     max-width: 928px;
-    gap: 14px;
   }
 }
 
@@ -22,15 +18,12 @@
 
 @media screen and (max-width: 767px) {
   .photo-grid {
-    gap: 16px;
     margin: 0 24px 88px;
   }
 }
 
 @media screen and (max-width: 424px) {
   .photo-grid {
-    gap: 12px;
     margin: 0 16px 66px;
-    grid-template-columns: 100%;
   }
 }
