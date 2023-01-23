@@ -1,5 +1,5 @@
 # Путешествие по России
-[Проект](https://touristonamission.github.io/russian-travel/) 
+[Проект](https://sdlmdev.github.io/russian-travel/)
 
 ## Описание
 Проектная работа курса «Веб-разработчик» от «Яндекс Практикум».
@@ -15,5 +15,4 @@
 * Media queries;
 
 #### Планы по доработке проекта
-* Добавить JavaScript;
 * Добавить английскую версию сайта;
