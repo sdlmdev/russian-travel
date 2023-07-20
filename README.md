@@ -2,7 +2,7 @@
 Проектная работа курса «Веб-разработчик» от «Яндекс Практикум».
 Адаптивный, одностраничный сайт, реализованный с помощью HTML и CSS. Построен по технологии БЭМ Nested, Media queries, Flexbox и Grid Layout.
 
-### Технологии
+## Технологии
 * HTML 5;
 * CSS 3;
 * БЭМ Nested;
@@ -10,3 +10,6 @@
 * Grid Layout;
 * Позиционирование;
 * Media queries;
+
+## Ссылки
+* [Проект](https://sdlmdev.github.io/russian-travel/)
