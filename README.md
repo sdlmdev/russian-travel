@@ -13,3 +13,5 @@
 
 ## Ссылки
 * [Проект](https://sdlmdev.github.io/russian-travel/)
+
+### Статус проекта: завершен
